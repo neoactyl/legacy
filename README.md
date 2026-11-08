@@ -1,4 +1,4 @@
-
+legacy shall be preserved
 # 🌙 Neoactyl
 ![Animated Banner](https://raw.githubusercontent.com/Crinix-Labs/neoactyl/refs/heads/main/20250310_185008_0002.gif)
 
